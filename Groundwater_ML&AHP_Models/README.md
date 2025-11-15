@@ -1,2 +1,1 @@
-This folder contains information about this manuscript.
-The entire Jupyter Notebook interface employed for the modelling have been uploaded to serve as guide for researchers working within hydrologic modelling. Vibe coding with AI models have been really helpful to optimize the codes. Happy modelling!
+Email submission proof, manuscript draft, Jupyter notebook interface codes as related to the manuscript development are some of the files here.
